@@ -1,0 +1,26 @@
+import requests
+
+class User:
+    def __init__(self, id, name, email):
+        self.id = id
+        self.name = name
+        self.email = email
+
+    def print_details(self):
+        print(f"ID: {self.id}, Name: {self.name}, Email: {self.email}")
+
+    def fetch_data(self, url):
+        response = requests.get(url)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return None
+
+if __name__ == "__main__":
+    user = User(1, "John Doe", "john.doe@example.com")
+    user.print_details()
+    data = user.fetch_data("https://api.example.com/data")
+    if data:
+        print("Data fetched successfully:", data)
+    else:
+        print("Failed to fetch data")

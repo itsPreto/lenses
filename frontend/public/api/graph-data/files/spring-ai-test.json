@@ -1,0 +1,17 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-test/src/main/java/org/springframework/ai/evaluation/BasicEvaluationTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 3431,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-test/src/main/java/org/springframework/ai/evaluation/BasicEvaluationTest.java",
+            "linkCount": 1,
+            "user": "spring-ai-test"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+matplotlib==3.8.4
+networkx==2.8.8
+numpy>=1.22,<2.0
+requests==2.32.3
+scipy>=1.5,<2.0
+services==0.1.1
+tree_sitter==0.21.1
+tiktoken==0.7.0
+flask==3.0.3
+flask_cors==4.0.1
+tqdm==4.66.4

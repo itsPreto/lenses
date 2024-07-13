@@ -1,0 +1,106 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/redis/RedisVectorStoreAutoConfigurationIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/redis/RedisVectorStorePropertiesTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/redis/RedisVectorStoreAutoConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/FilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/FilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/redis/RedisVectorStoreProperties.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 5594,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverterTests.java",
+            "linkCount": 4,
+            "user": "spring-ai-redis"
+        },
+        {
+            "description": "",
+            "fileSize": 9528,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/test/java/org/springframework/ai/vectorstore/RedisVectorStoreIT.java",
+            "linkCount": 4,
+            "user": "spring-ai-redis"
+        },
+        {
+            "description": "",
+            "fileSize": 15101,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisVectorStore.java",
+            "linkCount": 9,
+            "user": "spring-ai-redis"
+        },
+        {
+            "description": "",
+            "fileSize": 6483,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-redis/src/main/java/org/springframework/ai/vectorstore/RedisFilterExpressionConverter.java",
+            "linkCount": 3,
+            "user": "spring-ai-redis"
+        }
+    ]
+}

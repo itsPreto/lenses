@@ -1,0 +1,123 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/FilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasFilterConverterTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/VectorSearchAggregationTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasFilterConverterTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/mongo/MongoDBAtlasVectorStoreAutoConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/VectorSearchAggregationTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/VectorSearchAggregation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/mongo/MongoDBAtlasVectorStoreProperties.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/mongo/MongoDBAtlasVectorStoreAutoConfigurationIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/VectorSearchAggregationTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/VectorSearchAggregationTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 2503,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/VectorSearchAggregationTest.java",
+            "linkCount": 4,
+            "user": "spring-ai-mongodb-atlas-store"
+        },
+        {
+            "description": "",
+            "fileSize": 8081,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStoreIT.java",
+            "linkCount": 4,
+            "user": "spring-ai-mongodb-atlas-store"
+        },
+        {
+            "description": "",
+            "fileSize": 1458,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasContainer.java",
+            "linkCount": 0,
+            "user": "spring-ai-mongodb-atlas-store"
+        },
+        {
+            "description": "",
+            "fileSize": 5511,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/test/java/org/springframework/ai/vectorstore/MongoDBAtlasFilterConverterTest.java",
+            "linkCount": 2,
+            "user": "spring-ai-mongodb-atlas-store"
+        },
+        {
+            "description": "",
+            "fileSize": 9141,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasVectorStore.java",
+            "linkCount": 6,
+            "user": "spring-ai-mongodb-atlas-store"
+        },
+        {
+            "description": "",
+            "fileSize": 1579,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/VectorSearchAggregation.java",
+            "linkCount": 1,
+            "user": "spring-ai-mongodb-atlas-store"
+        },
+        {
+            "description": "",
+            "fileSize": 3076,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-mongodb-atlas-store/src/main/java/org/springframework/ai/vectorstore/MongoDBAtlasFilterExpressionConverter.java",
+            "linkCount": 2,
+            "user": "spring-ai-mongodb-atlas-store"
+        }
+    ]
+}

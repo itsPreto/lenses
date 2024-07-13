@@ -1,0 +1,75 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/test/java/org/springframework/ai/vectorstore/PgVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/test/java/org/springframework/ai/vectorstore/PgVectorEmbeddingDimensionsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/pgvector/PgVectorStoreAutoConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/pgvector/PgVectorStorePropertiesTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/test/java/org/springframework/ai/vectorstore/PgVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/pgvector/PgVectorStoreProperties.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/test/java/org/springframework/ai/vectorstore/PgVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/pgvector/PgVectorStoreAutoConfigurationIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/test/java/org/springframework/ai/vectorstore/PgVectorEmbeddingDimensionsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 12985,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/test/java/org/springframework/ai/vectorstore/PgVectorStoreIT.java",
+            "linkCount": 3,
+            "user": "spring-ai-pgvector-store"
+        },
+        {
+            "description": "",
+            "fileSize": 2286,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/test/java/org/springframework/ai/vectorstore/PgVectorEmbeddingDimensionsTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-pgvector-store"
+        },
+        {
+            "description": "",
+            "fileSize": 13362,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-pgvector-store/src/main/java/org/springframework/ai/vectorstore/PgVectorStore.java",
+            "linkCount": 8,
+            "user": "spring-ai-pgvector-store"
+        }
+    ]
+}

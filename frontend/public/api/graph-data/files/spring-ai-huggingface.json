@@ -1,0 +1,135 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/HuggingfaceTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/image/OpenAiImageClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-ollama/src/test/java/org/springframework/ai/ollama/OllamaChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-ollama/src/test/java/org/springframework/ai/ollama/OllamaEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-palm2/src/test/java/org/springframework/ai/vertexai/palm2/VertexAiPaLm2EmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-palm2/src/test/java/org/springframework/ai/vertexai/palm2/VertexAiPaLm2ChatGenerationClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/HuggingfaceTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/HuggingfaceTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-gemini/src/test/java/org/springframework/ai/vertexai/gemini/VertexAiGeminiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-postgresml/src/test/java/org/springframework/ai/postgresml/PostgresMlEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/test/java/org/springframework/ai/anthropic/AnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/audio/speech/OpenAiSpeechClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/main/java/org/springframework/ai/huggingface/HuggingfaceChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/chat/OpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/audio/transcription/OpenAiTranscriptionClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 1484,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/HuggingfaceTestConfiguration.java",
+            "linkCount": 3,
+            "user": "spring-ai-huggingface"
+        },
+        {
+            "description": "",
+            "fileSize": 2435,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java",
+            "linkCount": 23,
+            "user": "spring-ai-huggingface"
+        },
+        {
+            "description": "",
+            "fileSize": 4375,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/main/java/org/springframework/ai/huggingface/HuggingfaceChatClient.java",
+            "linkCount": 1,
+            "user": "spring-ai-huggingface"
+        }
+    ]
+}

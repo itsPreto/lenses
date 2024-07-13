@@ -1,0 +1,150 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/qdrant/QdrantContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/milvus/MilvusContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/milvus/MilvusContainerConnectionDetailsFactory.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/weaviate/WeaviateContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/chroma/ChromaContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/ollama/OllamaContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/ollama/OllamaContainerConnectionDetailsFactory.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/ollama/OllamaContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/qdrant/QdrantContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/qdrant/QdrantContainerConnectionDetailsFactory.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/chroma/ChromaContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/chroma/ChromaContainerConnectionDetailsFactory.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/milvus/MilvusContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/weaviate/WeaviateContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/weaviate/WeaviateContainerConnectionDetailsFactory.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/weaviate/WeaviateContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/chroma/ChromaContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/ollama/OllamaContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/redis/RedisContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/redis/RedisContainerConnectionDetailsFactoryTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/redis/RedisContainerConnectionDetailsFactory.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 3588,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/chroma/ChromaContainerConnectionDetailsFactoryTest.java",
+            "linkCount": 3,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 3620,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/redis/RedisContainerConnectionDetailsFactoryTest.java",
+            "linkCount": 2,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 3783,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/qdrant/QdrantContainerConnectionDetailsFactoryTest.java",
+            "linkCount": 2,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 3221,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/ollama/OllamaContainerConnectionDetailsFactoryTest.java",
+            "linkCount": 3,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 5379,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/weaviate/WeaviateContainerConnectionDetailsFactoryTest.java",
+            "linkCount": 3,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 4173,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/test/java/org/springframework/ai/testcontainers/service/connection/milvus/MilvusContainerConnectionDetailsFactoryTest.java",
+            "linkCount": 2,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 1963,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/chroma/ChromaContainerConnectionDetailsFactory.java",
+            "linkCount": 1,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 1845,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/redis/RedisContainerConnectionDetailsFactory.java",
+            "linkCount": 1,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 1922,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/qdrant/QdrantContainerConnectionDetailsFactory.java",
+            "linkCount": 1,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 1829,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/ollama/OllamaContainerConnectionDetailsFactory.java",
+            "linkCount": 1,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 1883,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/weaviate/WeaviateContainerConnectionDetailsFactory.java",
+            "linkCount": 1,
+            "user": "spring-ai-spring-boot-testcontainers"
+        },
+        {
+            "description": "",
+            "fileSize": 1996,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-testcontainers/src/main/java/org/springframework/ai/testcontainers/service/connection/milvus/MilvusContainerConnectionDetailsFactory.java",
+            "linkCount": 1,
+            "user": "spring-ai-spring-boot-testcontainers"
+        }
+    ]
+}

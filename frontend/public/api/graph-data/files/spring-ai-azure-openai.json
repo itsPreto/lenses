@@ -1,0 +1,513 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/Generation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/OutputParser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingResponse.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/test/java/org/springframework/ai/anthropic/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/test/java/org/springframework/ai/anthropic/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiEmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAzureOpenAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/OpenAiTestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHints.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/aot/OpenAiRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatResponseMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/ChatResponseMetadata.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/AzureOpenAiChatClientFunctionCallIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/azure/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/Parser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureEmbeddingsOptionsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAzureOpenAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/PromptMetadata.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/openai/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/AzureOpenAiChatClientFunctionCallIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiUsage.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/metadata/OpenAiUsage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatResponseMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/PromptMetadata.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureChatCompletionsOptionsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureEmbeddingsOptionsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatResponseMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/model/ResponseMetadata.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-gemini/src/test/java/org/springframework/ai/vertexai/gemini/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAzureOpenAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatResponseMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/metadata/OpenAiChatResponseMetadata.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/chat/OpenAiChatClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-gemini/src/test/java/org/springframework/ai/vertexai/gemini/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiUsage.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/model/function/TypeResolverHelperTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/AzureOpenAiChatClientFunctionCallIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vertexai/gemini/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/AzureOpenAiChatClientFunctionCallIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/AzureOpenAiChatClientFunctionCallIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiUsage.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/Generation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAzureOpenAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/azure/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAzureOpenAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/aot/OpenAiRuntimeHintsTests.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vertexai/gemini/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiUsage.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/Usage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/Message.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/openai/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/anthropic/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureEmbeddingsOptionsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/model/function/FunctionCallback.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiEmbeddingOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/UserMessage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/aot/AiRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatResponseMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/PromptMetadata.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/anthropic/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatResponseMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatResponse.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/aot/AiRuntimeHintsTests.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/OpenAiEmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/main/java/org/springframework/ai/openai/aot/OpenAiRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHints.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/aot/AiRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatResponseMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/Usage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureChatCompletionsOptionsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 3102,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClientIT.java",
+            "linkCount": 7,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 9002,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAiTestConfiguration.java",
+            "linkCount": 2,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 7396,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureOpenAiChatClientIT.java",
+            "linkCount": 9,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 3223,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureChatCompletionsOptionsTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 2376,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/MockAzureOpenAiTestConfiguration.java",
+            "linkCount": 5,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 2102,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/AzureEmbeddingsOptionsTests.java",
+            "linkCount": 3,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 2390,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "linkCount": 19,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 3787,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/AzureOpenAiChatClientFunctionCallIT.java",
+            "linkCount": 5,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 9047,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatClientMetadataTests.java",
+            "linkCount": 9,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 2059,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHintsTests.java",
+            "linkCount": 6,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 18903,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatClient.java",
+            "linkCount": 9,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 5242,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingClient.java",
+            "linkCount": 6,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 10418,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiChatOptions.java",
+            "linkCount": 3,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 2303,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/AzureOpenAiEmbeddingOptions.java",
+            "linkCount": 3,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 2004,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiUsage.java",
+            "linkCount": 4,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 2462,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/metadata/AzureOpenAiChatResponseMetadata.java",
+            "linkCount": 7,
+            "user": "spring-ai-azure-openai"
+        },
+        {
+            "description": "",
+            "fileSize": 2199,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/main/java/org/springframework/ai/azure/openai/aot/AzureOpenAiRuntimeHints.java",
+            "linkCount": 3,
+            "user": "spring-ai-azure-openai"
+        }
+    ]
+}

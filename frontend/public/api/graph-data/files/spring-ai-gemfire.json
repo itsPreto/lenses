@@ -1,0 +1,48 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/main/java/org/springframework/ai/vectorstore/GemFireVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/main/java/org/springframework/ai/vectorstore/GemFireVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/test/java/org/springframework/ai/vectorstore/GemFireVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/test/java/org/springframework/ai/vectorstore/GemFireVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/test/java/org/springframework/ai/vectorstore/GemFireVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/test/java/org/springframework/ai/vectorstore/GemFireVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/main/java/org/springframework/ai/vectorstore/GemFireVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/main/java/org/springframework/ai/vectorstore/GemFireVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 7863,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/test/java/org/springframework/ai/vectorstore/GemFireVectorStoreIT.java",
+            "linkCount": 4,
+            "user": "spring-ai-gemfire"
+        },
+        {
+            "description": "",
+            "fileSize": 14028,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-gemfire/src/main/java/org/springframework/ai/vectorstore/GemFireVectorStore.java",
+            "linkCount": 4,
+            "user": "spring-ai-gemfire"
+        }
+    ]
+}

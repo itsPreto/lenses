@@ -1,0 +1,31 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-retry/src/main/java/org/springframework/ai/retry/NonTransientAiException.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-retry/src/main/java/org/springframework/ai/retry/TransientAiException.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 1137,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-retry/src/main/java/org/springframework/ai/retry/NonTransientAiException.java",
+            "linkCount": 1,
+            "user": "spring-ai-retry"
+        },
+        {
+            "description": "",
+            "fileSize": 3113,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-retry/src/main/java/org/springframework/ai/retry/RetryUtils.java",
+            "linkCount": 0,
+            "user": "spring-ai-retry"
+        },
+        {
+            "description": "",
+            "fileSize": 1181,
+            "id": "/Users/z98459/Desktop/spring-ai/spring-ai-retry/src/main/java/org/springframework/ai/retry/TransientAiException.java",
+            "linkCount": 1,
+            "user": "spring-ai-retry"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/main/java/org/springframework/ai/reader/tika/TikaDocumentReader.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/DocumentReader.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/test/java/org/springframework/ai/reader/tika/TikaDocumentReaderTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/main/java/org/springframework/ai/reader/tika/TikaDocumentReader.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/test/java/org/springframework/ai/reader/tika/TikaDocumentReaderTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/DocumentReader.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/test/java/org/springframework/ai/reader/tika/TikaDocumentReaderTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/main/java/org/springframework/ai/reader/tika/TikaDocumentReader.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/test/java/org/springframework/ai/reader/tika/TikaDocumentReaderTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 2109,
+            "id": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/test/java/org/springframework/ai/reader/tika/TikaDocumentReaderTests.java",
+            "linkCount": 4,
+            "user": "tika-reader"
+        },
+        {
+            "description": "",
+            "fileSize": 5919,
+            "id": "/Users/z98459/Desktop/spring-ai/document-readers/tika-reader/src/main/java/org/springframework/ai/reader/tika/TikaDocumentReader.java",
+            "linkCount": 3,
+            "user": "tika-reader"
+        }
+    ]
+}

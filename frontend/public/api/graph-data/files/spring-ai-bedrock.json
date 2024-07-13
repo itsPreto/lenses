@@ -1,0 +1,833 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/OutputParser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/jurassic2/BedrockAi21Jurassic2ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/Parser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/MessageToPromptConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/api/TitanEmbeddingBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/OutputParser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/api/Llama2ChatBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/api/Llama2ChatBedrockApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/OutputParser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/Parser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/BedrockUsage.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/main/java/org/springframework/ai/anthropic/AnthropicChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/AnthropicChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/api/CohereEmbeddingBedrockApi.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/MessageToPromptConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-watsonx-ai/src/main/java/org/springframework/ai/watsonx/utils/MessageToPromptConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/api/TitanEmbeddingBedrockApi.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/BedrockUsage.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/Generation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicCreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2CreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/jurassic2/BedrockAi21Jurassic2ChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatCreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/MessageToPromptConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/Message.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/api/AnthropicChatBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/api/AnthropicChatBedrockApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/Parser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/Ai21Jurassic2ChatBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/jurassic2/api/Ai21Jurassic2ChatBedrockApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/api/CohereEmbeddingBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/OutputParser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/test/java/org/springframework/ai/anthropic/AnthropicChatClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/Generation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/AnthropicChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/BedrockUsage.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/Usage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatResponse.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-watsonx-ai/src/test/java/org/springframework/ai/watsonx/utils/MessageToPromptConverterTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/MessageToPromptConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3CreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/jurassic2/BedrockAi21Jurassic2ChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatCreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/api/TitanEmbeddingBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/main/java/org/springframework/ai/anthropic/AnthropicChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/Usage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/Parser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicCreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatCreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-watsonx-ai/src/main/java/org/springframework/ai/watsonx/utils/MessageToPromptConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/MessageToPromptConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/api/TitanEmbeddingBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/api/TitanEmbeddingBedrockApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/api/CohereChatBedrockApi.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/Generation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/metadata/Usage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/main/java/org/springframework/ai/anthropic/AnthropicChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/api/TitanChatBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/api/TitanChatBedrockApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/api/CohereEmbeddingBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/api/CohereEmbeddingBedrockApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/Anthropic3ChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/jurassic2/BedrockAi21Jurassic2ChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/api/CohereChatBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/api/CohereChatBedrockApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/OutputParser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/Message.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/Generation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3CreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/api/Anthropic3ChatBedrockApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/api/Anthropic3ChatBedrockApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/aot/BedrockRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatCreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/Generation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/api/TitanEmbeddingBedrockApi.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/aot/BedrockRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/aot/BedrockRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/AnthropicChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/main/java/org/springframework/ai/anthropic/AnthropicChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/Media.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/Parser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2CreateRequestTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 4176,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatCreateRequestTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4303,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClientIT.java",
+            "linkCount": 6,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 7796,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClientIT.java",
+            "linkCount": 7,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2368,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/api/CohereEmbeddingBedrockApiIT.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 5462,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/cohere/api/CohereChatBedrockApiIT.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 8134,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClientIT.java",
+            "linkCount": 7,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2354,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/BedrockLlama2CreateRequestTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2991,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/llama2/api/Llama2ChatBedrockApiIT.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2612,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/Ai21Jurassic2ChatBedrockApiIT.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 6522,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/jurassic2/api/BedrockAi21Jurassic2ChatClientIT.java",
+            "linkCount": 8,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2866,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3CreateRequestTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 8656,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClientIT.java",
+            "linkCount": 7,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 6252,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic3/api/Anthropic3ChatBedrockApiIT.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 7887,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClientIT.java",
+            "linkCount": 9,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2881,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicCreateRequestTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 3545,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/anthropic/api/AnthropicChatBedrockApiIT.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2877,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatCreateRequestTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 8129,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClientIT.java",
+            "linkCount": 5,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 3105,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClientIT.java",
+            "linkCount": 6,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2586,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/api/TitanChatBedrockApiIT.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2887,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/titan/api/TitanEmbeddingBedrockApiIT.java",
+            "linkCount": 3,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2434,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/test/java/org/springframework/ai/bedrock/aot/BedrockRuntimeHintsTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 1668,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/BedrockUsage.java",
+            "linkCount": 3,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 3096,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/MessageToPromptConverter.java",
+            "linkCount": 5,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 5149,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingClient.java",
+            "linkCount": 3,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2726,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereEmbeddingOptions.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 5785,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatOptions.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4456,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/BedrockCohereChatClient.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 7864,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/api/CohereEmbeddingBedrockApi.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 13654,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/cohere/api/CohereChatBedrockApi.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4518,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatClient.java",
+            "linkCount": 5,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 2832,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/BedrockLlama2ChatOptions.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 7757,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/llama2/api/Llama2ChatBedrockApi.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 9923,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/jurassic2/BedrockAi21Jurassic2ChatOptions.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4236,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/jurassic2/BedrockAi21Jurassic2ChatClient.java",
+            "linkCount": 2,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 14938,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/jurassic2/api/Ai21Jurassic2ChatBedrockApi.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4603,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/Anthropic3ChatOptions.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 6839,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/BedrockAnthropic3ChatClient.java",
+            "linkCount": 4,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 16365,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic3/api/Anthropic3ChatBedrockApi.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 12331,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/api/AbstractBedrockApi.java",
+            "linkCount": 0,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4307,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/BedrockAnthropicChatClient.java",
+            "linkCount": 3,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4685,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/AnthropicChatOptions.java",
+            "linkCount": 3,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 9423,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/anthropic/api/AnthropicChatBedrockApi.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4014,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanEmbeddingClient.java",
+            "linkCount": 3,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 5212,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanChatClient.java",
+            "linkCount": 5,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 3260,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/BedrockTitanChatOptions.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 9769,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/api/TitanChatBedrockApi.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 5087,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/titan/api/TitanEmbeddingBedrockApi.java",
+            "linkCount": 3,
+            "user": "spring-ai-bedrock"
+        },
+        {
+            "description": "",
+            "fileSize": 4303,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-bedrock/src/main/java/org/springframework/ai/bedrock/aot/BedrockRuntimeHints.java",
+            "linkCount": 1,
+            "user": "spring-ai-bedrock"
+        }
+    ]
+}

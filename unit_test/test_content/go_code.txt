@@ -1,0 +1,41 @@
+package main
+
+import (
+    "fmt"
+    "net/http"
+)
+
+type User struct {
+    ID    int
+    Name  string
+    Email string
+}
+
+func (u User) PrintDetails() {
+    fmt.Printf("ID: %d, Name: %s, Email: %s\n", u.ID, u.Name, u.Email)
+}
+
+func fetchData(url string) ([]byte, error) {
+    response, err := http.Get(url)
+    if err != nil {
+        return nil, err
+    }
+    defer response.Body.Close()
+    data, err := ioutil.ReadAll(response.Body)
+    if err != nil {
+        return nil, err
+    }
+    return data, nil
+}
+
+func main() {
+    user := User{ID: 1, Name: "John Doe", Email: "john.doe@example.com"}
+    user.PrintDetails()
+
+    data, err := fetchData("https://api.example.com/data")
+    if err != nil {
+        fmt.Println("Error fetching data:", err)
+    } else {
+        fmt.Println("Data fetched successfully:", string(data))
+    }
+}

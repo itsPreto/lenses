@@ -1,0 +1,155 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStoreConfig.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/WikiVectorStoreExample.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStoreConfig.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraRichSchemaVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/FilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraRichSchemaVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStoreConfig.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/cassandra/CassandraVectorStoreAutoConfigurationIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStoreConfig.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/cassandra/CassandraVectorStoreAutoConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/cassandra/CassandraVectorStoreProperties.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/WikiVectorStoreExample.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/FilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/cassandra/CassandraVectorStorePropertiesTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraRichSchemaVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 24626,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraRichSchemaVectorStoreIT.java",
+            "linkCount": 3,
+            "user": "spring-ai-cassandra"
+        },
+        {
+            "description": "",
+            "fileSize": 14742,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraVectorStoreIT.java",
+            "linkCount": 4,
+            "user": "spring-ai-cassandra"
+        },
+        {
+            "description": "",
+            "fileSize": 4905,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/WikiVectorStoreExample.java",
+            "linkCount": 2,
+            "user": "spring-ai-cassandra"
+        },
+        {
+            "description": "",
+            "fileSize": 8723,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/test/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverterTests.java",
+            "linkCount": 4,
+            "user": "spring-ai-cassandra"
+        },
+        {
+            "description": "",
+            "fileSize": 13645,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStore.java",
+            "linkCount": 8,
+            "user": "spring-ai-cassandra"
+        },
+        {
+            "description": "",
+            "fileSize": 5152,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraFilterExpressionConverter.java",
+            "linkCount": 3,
+            "user": "spring-ai-cassandra"
+        },
+        {
+            "description": "",
+            "fileSize": 18829,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-cassandra/src/main/java/org/springframework/ai/vectorstore/CassandraVectorStoreConfig.java",
+            "linkCount": 4,
+            "user": "spring-ai-cassandra"
+        }
+    ]
+}

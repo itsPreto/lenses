@@ -1,0 +1,90 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/FilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/azure/AzureVectorStoreProperties.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/azure/AzureVectorStoreAutoConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/azure/AzureVectorStoreAutoConfigurationIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/FilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverterTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 8379,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverterTests.java",
+            "linkCount": 4,
+            "user": "spring-ai-azure"
+        },
+        {
+            "description": "",
+            "fileSize": 12364,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/test/java/org/springframework/ai/vectorstore/azure/AzureVectorStoreIT.java",
+            "linkCount": 4,
+            "user": "spring-ai-azure"
+        },
+        {
+            "description": "",
+            "fileSize": 5521,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureAiSearchFilterExpressionConverter.java",
+            "linkCount": 3,
+            "user": "spring-ai-azure"
+        },
+        {
+            "description": "",
+            "fileSize": 14106,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-azure/src/main/java/org/springframework/ai/vectorstore/azure/AzureVectorStore.java",
+            "linkCount": 5,
+            "user": "spring-ai-azure"
+        }
+    ]
+}

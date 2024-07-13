@@ -1,0 +1,93 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/qdrant/QdrantVectorStoreAutoConfigurationIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/qdrant/QdrantVectorStoreProperties.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/test/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/VectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/test/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/qdrant/QdrantVectorStoreCloudAutoConfigurationIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/test/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantFilterExpressionConverter.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/FilterExpressionConverter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vectorstore/qdrant/QdrantVectorStorePropertiesTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/test/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStoreIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/vectorstore/filter/Filter.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/main/java/org/springframework/ai/autoconfigure/vectorstore/qdrant/QdrantVectorStoreAutoConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/document/Document.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 9680,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/test/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStoreIT.java",
+            "linkCount": 4,
+            "user": "spring-ai-qdrant"
+        },
+        {
+            "description": "",
+            "fileSize": 10614,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantVectorStore.java",
+            "linkCount": 8,
+            "user": "spring-ai-qdrant"
+        },
+        {
+            "description": "",
+            "fileSize": 2276,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantObjectFactory.java",
+            "linkCount": 0,
+            "user": "spring-ai-qdrant"
+        },
+        {
+            "description": "",
+            "fileSize": 9192,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantFilterExpressionConverter.java",
+            "linkCount": 2,
+            "user": "spring-ai-qdrant"
+        },
+        {
+            "description": "",
+            "fileSize": 2889,
+            "id": "/Users/z98459/Desktop/spring-ai/vector-stores/spring-ai-qdrant/src/main/java/org/springframework/ai/vectorstore/qdrant/QdrantValueFactory.java",
+            "linkCount": 0,
+            "user": "spring-ai-qdrant"
+        }
+    ]
+}

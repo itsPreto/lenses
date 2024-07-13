@@ -1,0 +1,29 @@
+package com.example.advanced
+
+import java.util.*
+
+data class User(val id: Int, val name: String, val email: String)
+
+class UserManager {
+    private val users = mutableListOf<User>()
+
+    fun addUser(user: User) {
+        users.add(user)
+    }
+
+    fun removeUser(user: User) {
+        users.remove(user)
+    }
+
+    fun getAllUsers(): List<User> {
+        return users
+    }
+
+    fun findUserByEmail(email: String): User? {
+        return users.find { it.email == email }
+    }
+
+    fun printAllUsers() {
+        users.forEach { println(it) }
+    }
+}

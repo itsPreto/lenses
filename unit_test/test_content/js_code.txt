@@ -1,0 +1,73 @@
+import React, { Component } from 'react'
+import { upload_metadata } from './uploader/uploader'
+import './css/App.css'
+import { Card, Spin } from 'antd'
+
+class BatchSelect extends Component {
+
+  constructor(props) {
+    super(props)
+    this.state = {
+      error: null,
+      progress: false
+    }
+  }
+
+  handleFolderSelected = async (event) => {
+
+    // show progress while uploading batch metadata
+    this.setState({
+      progress: true,
+      error: null
+    })
+
+    this.props.onStepChange(1)
+
+    const files = Array.from(event.target.files)
+
+    if (files.length > 0) {
+      await upload_metadata(files, (error, needToTransfer) => {
+        if (error) {
+          // TODO show errors to user if there are any
+          this.setState({ error: error })
+          this.props.onStepChange(0)
+        } else {
+          this.props.onBatchSelected(files, needToTransfer)
+          this.props.onStepChange(2)
+        }
+      })
+    } else {
+      this.props.onStepChange(0)
+    }
+
+    // Remove progress indicator
+    this.setState({ progress: false })
+  }
+
+  render() {
+
+    const title = this.state.progress ?
+      'Analyzing Batch' :
+      'Choose USB drive'
+
+    const hint = this.state.error ?
+      (<p className='error-text'>{this.state.error}</p>) :
+      (<p>Please select batch source</p>)
+
+    const body = this.state.progress ?
+      (<Spin lassName='Batch-input' size="large" />) :
+      (<input className='Batch-input'
+        type='file'
+        webkitdirectory='true'
+        directory='true' multiple='true'
+        onChange={this.handleFolderSelected} />)
+
+    return (
+      <Card title={title} style={{ width: 500 }}>
+        {body}
+        {hint}
+      </Card>)
+  }
+}
+
+export default BatchSelect

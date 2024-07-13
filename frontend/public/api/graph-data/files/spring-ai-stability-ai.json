@@ -1,0 +1,146 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/ImageClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/ImageClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageGenerationMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/ImageGeneration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageGenerationMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/ImageGenerationMetadata.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/api/StabilityAiApi.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/api/StabilityAiApi.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/api/StabilityAiApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/ImageClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/api/StabilityAiImageOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/api/StabilityAiImageOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/ImageOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageGenerationMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageGenerationMetadata.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/Generation.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/image/Image.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 2411,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageClientIT.java",
+            "linkCount": 5,
+            "user": "spring-ai-stability-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 1493,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiImageTestConfiguration.java",
+            "linkCount": 4,
+            "user": "spring-ai-stability-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 2938,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/test/java/org/springframework/ai/stabilityai/StabilityAiApiIT.java",
+            "linkCount": 2,
+            "user": "spring-ai-stability-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 1379,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StyleEnum.java",
+            "linkCount": 0,
+            "user": "spring-ai-stability-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 6764,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageClient.java",
+            "linkCount": 3,
+            "user": "spring-ai-stability-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 1785,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/StabilityAiImageGenerationMetadata.java",
+            "linkCount": 4,
+            "user": "spring-ai-stability-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 13668,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/api/StabilityAiImageOptions.java",
+            "linkCount": 2,
+            "user": "spring-ai-stability-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 5641,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-stability-ai/src/main/java/org/springframework/ai/stabilityai/api/StabilityAiApi.java",
+            "linkCount": 3,
+            "user": "spring-ai-stability-ai"
+        }
+    ]
+}

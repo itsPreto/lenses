@@ -1,0 +1,460 @@
+File: ./unit_test/test_content/swift_code.txt
+Parsing successful!
+Parsed Tree:
+TreeNode:
+File Path:./unit_test/test_content/swift_code.txt
+Class Names: ['AdvancedLogoAnimation', 'ContentView', 'AdvancedLogoAnimation_Previews', 'AdvancedLogoAnimation', 'ContentView', 'AdvancedLogoAnimation_Previews']
+Imports: ['import SwiftUI', 'import Combine', 'import SwiftUI', 'import Combine']
+Exports: []
+Properties: ['@State private var bounce = false', '@State private var startGradientAnimation = false', '@State private var showContentView = false', 'var onCompletion: (() -> Void)?', 'var body: some View {\n        ZStack {\n            Circle()\n                .fill(RadialGradient(gradient: Gradient(colors: [.red, .blue, .red]), center: .center, startRadius: 0, endRadius: 500))\n                .scaleEffect(startGradientAnimation ? 3 : 0)\n                .opacity(startGradientAnimation ? 1 : 0)\n                .animation(Animation.easeInOut(duration: 1), value: startGradientAnimation)\n                .frame(width: UIScreen.main.bounds.width * 2, height: UIScreen.main.bounds.height * 2)\n                .zIndex(1)\n            Image("Delta-Logo")\n                .resizable()\n                .scaledToFit()\n                .frame(width: 200, height: 200)\n                .scaleEffect(bounce ? 1.1 : 1.0)\n                .animation(Animation.easeInOut(duration: 0.5).repeatCount(3, autoreverses: true), value: bounce)\n                .zIndex(0)\n            if showContentView {\n                ContentView()\n                    .opacity(showContentView ? 1 : 0)\n                    .animation(Animation.easeInOut(duration: 0.5).delay(1), value: showContentView)\n            }\n        }\n        .onAppear {\n            bounce = true\n            DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) {\n                startGradientAnimation = true\n                DispatchQueue.main.asyncAfter(deadline: .now() + 2) {\n                    showContentView = true\n                    onCompletion?()\n                }\n            }\n        }\n    }', 'var body: some View {\n        Text("Content View")\n    }', 'static var previews: some View {\n        AdvancedLogoAnimation()\n    }', '@State private var bounce = false', '@State private var startGradientAnimation = false', '@State private var showContentView = false', 'var onCompletion: (() -> Void)?', 'var body: some View {\n        ZStack {\n            Circle()\n                .fill(RadialGradient(gradient: Gradient(colors: [.red, .blue, .red]), center: .center, startRadius: 0, endRadius: 500))\n                .scaleEffect(startGradientAnimation ? 3 : 0)\n                .opacity(startGradientAnimation ? 1 : 0)\n                .animation(Animation.easeInOut(duration: 1), value: startGradientAnimation)\n                .frame(width: UIScreen.main.bounds.width * 2, height: UIScreen.main.bounds.height * 2)\n                .zIndex(1)\n            Image("Delta-Logo")\n                .resizable()\n                .scaledToFit()\n                .frame(width: 200, height: 200)\n                .scaleEffect(bounce ? 1.1 : 1.0)\n                .animation(Animation.easeInOut(duration: 0.5).repeatCount(3, autoreverses: true), value: bounce)\n                .zIndex(0)\n            if showContentView {\n                ContentView()\n                    .opacity(showContentView ? 1 : 0)\n                    .animation(Animation.easeInOut(duration: 0.5).delay(1), value: showContentView)\n            }\n        }\n        .onAppear {\n            bounce = true\n            DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) {\n                startGradientAnimation = true\n                DispatchQueue.main.asyncAfter(deadline: .now() + 2) {\n                    showContentView = true\n                    onCompletion?()\n                }\n            }\n        }\n    }', '@State private var bounce = false', '@State private var startGradientAnimation = false', '@State private var showContentView = false', 'var onCompletion: (() -> Void)?', 'var body: some View {\n        ZStack {\n            Circle()\n                .fill(RadialGradient(gradient: Gradient(colors: [.red, .blue, .red]), center: .center, startRadius: 0, endRadius: 500))\n                .scaleEffect(startGradientAnimation ? 3 : 0)\n                .opacity(startGradientAnimation ? 1 : 0)\n                .animation(Animation.easeInOut(duration: 1), value: startGradientAnimation)\n                .frame(width: UIScreen.main.bounds.width * 2, height: UIScreen.main.bounds.height * 2)\n                .zIndex(1)\n            Image("Delta-Logo")\n                .resizable()\n                .scaledToFit()\n                .frame(width: 200, height: 200)\n                .scaleEffect(bounce ? 1.1 : 1.0)\n                .animation(Animation.easeInOut(duration: 0.5).repeatCount(3, autoreverses: true), value: bounce)\n                .zIndex(0)\n            if showContentView {\n                ContentView()\n                    .opacity(showContentView ? 1 : 0)\n                    .animation(Animation.easeInOut(duration: 0.5).delay(1), value: showContentView)\n            }\n        }\n        .onAppear {\n            bounce = true\n            DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) {\n                startGradientAnimation = true\n                DispatchQueue.main.asyncAfter(deadline: .now() + 2) {\n                    showContentView = true\n                    onCompletion?()\n                }\n            }\n        }\n    }', '@State private var bounce = false', '@State private var startGradientAnimation = false', '@State private var showContentView = false', 'var onCompletion: (() -> Void)?', 'var body: some View {\n        ZStack {\n            Circle()\n                .fill(RadialGradient(gradient: Gradient(colors: [.red, .blue, .red]), center: .center, startRadius: 0, endRadius: 500))\n                .scaleEffect(startGradientAnimation ? 3 : 0)\n                .opacity(startGradientAnimation ? 1 : 0)\n                .animation(Animation.easeInOut(duration: 1), value: startGradientAnimation)\n                .frame(width: UIScreen.main.bounds.width * 2, height: UIScreen.main.bounds.height * 2)\n                .zIndex(1)\n            Image("Delta-Logo")\n                .resizable()\n                .scaledToFit()\n                .frame(width: 200, height: 200)\n                .scaleEffect(bounce ? 1.1 : 1.0)\n                .animation(Animation.easeInOut(duration: 0.5).repeatCount(3, autoreverses: true), value: bounce)\n                .zIndex(0)\n            if showContentView {\n                ContentView()\n                    .opacity(showContentView ? 1 : 0)\n                    .animation(Animation.easeInOut(duration: 0.5).delay(1), value: showContentView)\n            }\n        }\n        .onAppear {\n            bounce = true\n            DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) {\n                startGradientAnimation = true\n                DispatchQueue.main.asyncAfter(deadline: .now() + 2) {\n                    showContentView = true\n                    onCompletion?()\n                }\n            }\n        }\n    }', 'var body: some View {\n        Text("Content View")\n    }', 'var body: some View {\n        Text("Content View")\n    }', 'var body: some View {\n        Text("Content View")\n    }', 'static var previews: some View {\n        AdvancedLogoAnimation()\n    }', 'static var previews: some View {\n        AdvancedLogoAnimation()\n    }', 'static var previews: some View {\n        AdvancedLogoAnimation()\n    }']
+Functions:
+
+Package Paths:{}
+Package: None
+
+File: ./unit_test/test_content/c_code.txt
+Parsing successful!
+Parsed Tree:
+TreeNode:
+File Path:./unit_test/test_content/c_code.txt
+Class Names: []
+Imports: ['#include <stdio.h>', '#include <curl/curl.h>', '#include <stdio.h>', '#include <curl/curl.h>']
+Exports: []
+Properties: []
+Functions:
+
+
+------ Name: print_details
+------ Parameters: int id,  const char* name,  const char* email
+------ Return Type: void
+------ Body:	printf("ID: %d, Name: %s, Email: %s\n", id, name, email);
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+
+
+
+------ Name: write_callback
+------ Parameters: void* contents,  size_t size,  size_t nmemb,  void* userp
+------ Return Type: size_t
+------ Body:	((char*)userp)[size * nmemb] = '\0';
+    strcat(userp, (char*)contents);
+    return size * nmemb;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+
+
+
+------ Name: fetch_data
+------ Parameters: const char* url
+------ Return Type: void
+------ Body:	CURL* curl;
+    CURLcode res;
+    char buffer[1024] = {0
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+
+
+
+------ Name: main
+------ Parameters: 
+------ Return Type: int
+------ Body:	int id = 1;
+    const char* name = "John Doe";
+    const char* email = "john.doe@example.com";
+    print_details(id, name, email);
+    fetch_data("https://api.example.com/data");
+    return 0;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+Package Paths:{}
+Package: None
+
+File: ./unit_test/test_content/java_code.txt
+Parsing successful!
+Parsed Tree:
+TreeNode:
+File Path:./unit_test/test_content/java_code.txt
+Class Names: ['AdvancedExample', 'InnerClass', 'AdvancedExample', 'InnerClass']
+Imports: ['import java.util.List;', 'import java.util.ArrayList;', 'import java.util.List;', 'import java.util.ArrayList;']
+Exports: []
+Properties: ['private int id;', 'private String name;', 'private List<String> tags;', 'private int id;', 'private String name;', 'private List<String> tags;']
+Functions:
+
+
+------ Name: getId
+------ Parameters: 
+------ Return Type: int
+------ Body:	return id;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	AdvancedExample
+
+
+
+------ Name: setId
+------ Parameters: int id
+------ Return Type: void
+------ Body:	this.id = id;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	AdvancedExample
+
+
+
+------ Name: getName
+------ Parameters: 
+------ Return Type: String
+------ Body:	return name;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	AdvancedExample
+
+
+
+------ Name: setName
+------ Parameters: String name
+------ Return Type: void
+------ Body:	this.name = name;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	AdvancedExample
+
+
+
+------ Name: addTag
+------ Parameters: String tag
+------ Return Type: void
+------ Body:	this.tags.add(tag);
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	AdvancedExample
+
+
+
+------ Name: getTags
+------ Parameters: 
+------ Return Type: void
+------ Body:	return tags;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	AdvancedExample
+
+
+
+------ Name: printDetails
+------ Parameters: 
+------ Return Type: void
+------ Body:	System.out.println("ID: " + id + ", Name: " + name + ", Tags: " + tags);
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	AdvancedExample
+Package Paths:{}
+Package: package com.example.advanced;
+
+File: ./unit_test/test_content/kotlin_code.txt
+Parsing successful!
+Parsed Tree:
+TreeNode:
+File Path:./unit_test/test_content/kotlin_code.txt
+Class Names: ['User', 'UserManager', 'User', 'UserManager']
+Imports: ['import java.util.*']
+Exports: []
+Properties: ['val id: Int   ,', 'val name: String   ,', 'val email: String   ', 'private val users = mutableListOf<User>()']
+Functions:
+
+
+------ Name: addUser
+------ Parameters: user: User
+------ Return Type: User
+------ Body:	users.add(user)
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User UserManager
+
+
+
+------ Name: removeUser
+------ Parameters: user: User
+------ Return Type: User
+------ Body:	users.remove(user)
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User UserManager
+
+
+
+------ Name: getAllUsers
+------ Parameters: 
+------ Return Type: List<User>
+------ Body:	return users
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User UserManager
+
+
+
+------ Name: findUserByEmail
+------ Parameters: email: String
+------ Return Type: String
+------ Body:	return users.find { it.email == email }
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User UserManager
+
+
+
+------ Name: printAllUsers
+------ Parameters: 
+------ Return Type: Unit
+------ Body:	users.forEach { println(it) }
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User UserManager
+Package Paths:{'om.example.advanced.User': 'om.example.advanced.User', 'om.example.advanced.UserManager': 'om.example.advanced.UserManager', 'om.example.advanced.addUser': 'om.example.advanced.addUser', 'om.example.advanced.removeUser': 'om.example.advanced.removeUser', 'om.example.advanced.getAllUsers': 'om.example.advanced.getAllUsers', 'om.example.advanced.findUserByEmail': 'om.example.advanced.findUserByEmail', 'om.example.advanced.printAllUsers': 'om.example.advanced.printAllUsers', 'om.example.advanced.id': 'om.example.advanced.id', 'om.example.advanced.nam': 'om.example.advanced.nam', 'om.example.advanced.email': 'om.example.advanced.email', 'om.example.advanced.users': 'om.example.advanced.users'}
+Package: package com.example.advanced
+
+File: ./unit_test/test_content/js_code.txt
+Parsing successful!
+Parsed Tree:
+TreeNode:
+File Path:./unit_test/test_content/js_code.txt
+Class Names: ['BatchSelect', 'BatchSelect']
+Imports: ["import React, { Component } from 'react'", "import { upload_metadata } from './uploader/uploader'", "import './css/App.css'", "import { Card, Spin } from 'antd'", "import React, { Component } from 'react'", "import { upload_metadata } from './uploader/uploader'", "import './css/App.css'", "import { Card, Spin } from 'antd'"]
+Exports: ['export default BatchSelect', 'export default BatchSelect']
+Properties: ['files = Array.from(event.target.files)', "title = this.state.progress ?\n      'Analyzing Batch' :\n      'Choose USB drive'", "hint = this.state.error ?\n      (<p className='error-text'>{this.state.error}</p>) :\n      (<p>Please select batch source</p>)", 'body = this.state.progress ?\n      (<Spin lassName=\'Batch-input\' size="large" />) :\n      (<input className=\'Batch-input\'\n        type=\'file\'\n        webkitdirectory=\'true\'\n        directory=\'true\' multiple=\'true\'\n        onChange={this.handleFolderSelected} />)', 'files = Array.from(event.target.files)', "title = this.state.progress ?\n      'Analyzing Batch' :\n      'Choose USB drive'", "hint = this.state.error ?\n      (<p className='error-text'>{this.state.error}</p>) :\n      (<p>Please select batch source</p>)", 'body = this.state.progress ?\n      (<Spin lassName=\'Batch-input\' size="large" />) :\n      (<input className=\'Batch-input\'\n        type=\'file\'\n        webkitdirectory=\'true\'\n        directory=\'true\' multiple=\'true\'\n        onChange={this.handleFolderSelected} />)']
+Functions:
+
+
+------ Name: anonymous
+------ Parameters: props
+------ Return Type: n/a
+------ Body:	super(props)
+    this.state = {
+      error: null,
+      progress: false
+    }
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+Package Paths:{}
+Package: None
+
+File: ./unit_test/test_content/go_code.txt
+Parsing successful!
+Parsed Tree:
+TreeNode:
+File Path:./unit_test/test_content/go_code.txt
+Class Names: ['User', 'User']
+Imports: ['import (\n    "fmt"\n    "net/http"\n)', 'import (\n    "fmt"\n    "net/http"\n)']
+Exports: []
+Properties: []
+Functions:
+
+
+------ Name: anonymous
+------ Parameters: u User
+------ Return Type: undefined
+------ Body:	fmt.Printf("ID: %d, Name: %s, Email: %s\n", u.ID, u.Name, u.Email)
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+
+
+
+------ Name: fetchData
+------ Parameters: url string
+------ Return Type: undefined
+------ Body:	response, err := http.Get(url)
+    if err != nil {
+        return nil, err
+    }
+    defer response.Body.Close()
+    data, err := ioutil.ReadAll(response.Body)
+    if err != nil {
+        return nil, err
+    }
+    return data, nil
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+
+
+
+------ Name: main
+------ Parameters: 
+------ Return Type: undefined
+------ Body:	user := User{ID: 1, Name: "John Doe", Email: "john.doe@example.com"}
+    user.PrintDetails()
+
+    data, err := fetchData("https://api.example.com/data")
+    if err != nil {
+        fmt.Println("Error fetching data:", err)
+    } else {
+        fmt.Println("Data fetched successfully:", string(data))
+    }
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+Package Paths:{}
+Package: main
+
+File: ./unit_test/test_content/python_code.txt
+Parsing successful!
+Parsed Tree:
+TreeNode:
+File Path:./unit_test/test_content/python_code.txt
+Class Names: ['User', 'User']
+Imports: ['import requests', 'import requests']
+Exports: []
+Properties: []
+Functions:
+
+
+------ Name: __init__
+------ Parameters: self,  id,  name,  email
+------ Return Type: None
+------ Body:	self.id = id
+        self.name = name
+        self.email = email
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+
+
+
+------ Name: print_details
+------ Parameters: self
+------ Return Type: None
+------ Body:	print(f"ID: {self.id}, Name: {self.name}, Email: {self.email}")
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+
+
+
+------ Name: fetch_data
+------ Parameters: self,  url
+------ Return Type: None
+------ Body:	response = requests.get(url)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return None
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	
+Package Paths:{}
+Package: None
+
+File: ./unit_test/test_content/cpp_code.txt
+Parsing successful!
+Parsed Tree:
+TreeNode:
+File Path:./unit_test/test_content/cpp_code.txt
+Class Names: ['User', 'User']
+Imports: ['#include <iostream>', '#include <string>', '#include <vector>', '#include <curl/curl.h>', '#include <iostream>', '#include <string>', '#include <vector>', '#include <curl/curl.h>']
+Exports: []
+Properties: ['CURL* curl;', 'CURLcode res;', 'std::string readBuffer;', 'User user(1, "John Doe", "john.doe@example.com");', 'std::string data = user.fetchData("https://api.example.com/data");', 'CURL* curl;', 'CURLcode res;', 'std::string readBuffer;', 'User user(1, "John Doe", "john.doe@example.com");', 'std::string data = user.fetchData("https://api.example.com/data");']
+Functions:
+
+
+------ Name: User
+------ Parameters: int id,  const std::string& name,  const std::string& email
+------ Return Type: void
+------ Body:	
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User
+
+
+
+------ Name: printDetails
+------ Parameters: 
+------ Return Type: printDetails
+------ Body:	std::cout << "ID: " << id << ", Name: " << name << ", Email: " << email << std::endl;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User
+
+
+
+------ Name: fetchData
+------ Parameters: const std::string& url
+------ Return Type: fetchData
+------ Body:	CURL* curl;
+        CURLcode res;
+        std::string readBuffer;
+        curl = curl_easy_init();
+        if(curl) {
+            curl_easy_setopt(curl, CURLOPT_URL, url.c_str());
+            curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
+            curl_easy_setopt(curl, CURLOPT_WRITEDATA, &readBuffer);
+            res = curl_easy_perform(curl);
+            curl_easy_cleanup(curl);
+        }
+        return readBuffer;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User
+
+
+
+------ Name: WriteCallback
+------ Parameters: void* contents,  size_t size,  size_t nmemb,  void* userp
+------ Return Type: size_t
+------ Body:	((std::string*)userp)->append((char*)contents, size * nmemb);
+        return size * nmemb;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User
+
+
+
+------ Name: main
+------ Parameters: 
+------ Return Type: main
+------ Body:	User user(1, "John Doe", "john.doe@example.com");
+    user.printDetails();
+    std::string data = user.fetchData("https://api.example.com/data");
+    std::cout << "Data fetched successfully: " << data << std::endl;
+    return 0;
+------ Abstract:	False
+
+------ Annotations:	[]
+------ Class Name:	User
+Package Paths:{}
+Package: None
+
+
+Error Reports:

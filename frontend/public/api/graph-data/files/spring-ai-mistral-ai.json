@@ -1,0 +1,424 @@
+{
+    "links": [
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiEmbeddingIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-gemini/src/test/java/org/springframework/ai/vertexai/gemini/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/test/java/org/springframework/ai/anthropic/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-huggingface/src/test/java/org/springframework/ai/huggingface/client/ClientIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/anthropic/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-gemini/src/test/java/org/springframework/ai/vertexai/gemini/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/MistralAiApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/Message.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/aot/MistralAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/aot/AiRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-gemini/src/test/java/org/springframework/ai/vertexai/gemini/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/test/java/org/springframework/ai/anthropic/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/aot/MistralAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/azure/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiRetryTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/test/java/org/springframework/ai/anthropic/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/anthropic/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiEmbeddingIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/MistralAiApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/SystemMessage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiEmbeddingOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/Embedding.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/Message.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vertexai/gemini/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/azure/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/messages/UserMessage.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/openai/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/anthropic/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/openai/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/MistralAiApiIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/api/MistralAiApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/azure/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/aot/MistralAiRuntimeHints.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/aot/AiRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/openai/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/Prompt.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vertexai/gemini/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-azure-openai/src/test/java/org/springframework/ai/azure/openai/function/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/prompt/ChatOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiEmbeddingClient.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/model/ResponseMetadata.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatCompletionRequestTest.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/openai/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/anthropic/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/OutputParser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-vertex-ai-gemini/src/test/java/org/springframework/ai/vertexai/gemini/function/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/model/function/TypeResolverHelperTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiTestConfiguration.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/TestConfiguration.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/model/function/FunctionCallback.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vertexai/gemini/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/model/function/TypeResolverHelperTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiEmbeddingIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/embedding/EmbeddingIT.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/vertexai/gemini/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-openai/src/test/java/org/springframework/ai/openai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiEmbeddingOptions.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/embedding/EmbeddingOptions.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/spring-ai-spring-boot-autoconfigure/src/test/java/org/springframework/ai/autoconfigure/azure/tool/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MistralAiApiToolFunctionCallIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/api/MistralAiApi.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/aot/MistralAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/aot/MistralAiRuntimeHints.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiRetryTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-transformers/src/test/resources/Test.py"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/chat/ChatClient.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/aot/MistralAiRuntimeHintsTests.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/test/java/org/springframework/ai/aot/AiRuntimeHintsTests.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatClientIT.java",
+            "target": "/Users/z98459/Desktop/spring-ai/spring-ai-core/src/main/java/org/springframework/ai/parser/Parser.java"
+        },
+        {
+            "source": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "target": "/Users/z98459/Desktop/spring-ai/models/spring-ai-anthropic/src/test/java/org/springframework/ai/anthropic/api/tool/MockWeatherService.java"
+        }
+    ],
+    "nodes": [
+        {
+            "description": "",
+            "fileSize": 2378,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MockWeatherService.java",
+            "linkCount": 19,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 2115,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatCompletionRequestTest.java",
+            "linkCount": 1,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 2764,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiEmbeddingIT.java",
+            "linkCount": 3,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 1781,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiTestConfiguration.java",
+            "linkCount": 5,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 7484,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiRetryTests.java",
+            "linkCount": 2,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 8847,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/MistralAiChatClientIT.java",
+            "linkCount": 6,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 3687,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/MistralAiApiIT.java",
+            "linkCount": 3,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 2387,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MockWeatherService.java",
+            "linkCount": 19,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 6758,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/PaymentStatusFunctionCallingIT.java",
+            "linkCount": 0,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 6471,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/api/tool/MistralAiApiToolFunctionCallIT.java",
+            "linkCount": 1,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 1643,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/test/java/org/springframework/ai/mistralai/aot/MistralAiRuntimeHintsTests.java",
+            "linkCount": 4,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 2093,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiEmbeddingOptions.java",
+            "linkCount": 2,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 11248,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatClient.java",
+            "linkCount": 4,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 9023,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiChatOptions.java",
+            "linkCount": 3,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 4705,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/MistralAiEmbeddingClient.java",
+            "linkCount": 3,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 7370,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/api/MistralAiStreamFunctionCallingHelper.java",
+            "linkCount": 0,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 26764,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/api/MistralAiApi.java",
+            "linkCount": 2,
+            "user": "spring-ai-mistral-ai"
+        },
+        {
+            "description": "",
+            "fileSize": 1561,
+            "id": "/Users/z98459/Desktop/spring-ai/models/spring-ai-mistral-ai/src/main/java/org/springframework/ai/mistralai/aot/MistralAiRuntimeHints.java",
+            "linkCount": 2,
+            "user": "spring-ai-mistral-ai"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+import SwiftUI
+import Combine
+
+struct AdvancedLogoAnimation: View {
+    @State private var bounce = false
+    @State private var startGradientAnimation = false
+    @State private var showContentView = false
+    var onCompletion: (() -> Void)?
+
+    var body: some View {
+        ZStack {
+            Circle()
+                .fill(RadialGradient(gradient: Gradient(colors: [.red, .blue, .red]), center: .center, startRadius: 0, endRadius: 500))
+                .scaleEffect(startGradientAnimation ? 3 : 0)
+                .opacity(startGradientAnimation ? 1 : 0)
+                .animation(Animation.easeInOut(duration: 1), value: startGradientAnimation)
+                .frame(width: UIScreen.main.bounds.width * 2, height: UIScreen.main.bounds.height * 2)
+                .zIndex(1)
+            Image("Delta-Logo")
+                .resizable()
+                .scaledToFit()
+                .frame(width: 200, height: 200)
+                .scaleEffect(bounce ? 1.1 : 1.0)
+                .animation(Animation.easeInOut(duration: 0.5).repeatCount(3, autoreverses: true), value: bounce)
+                .zIndex(0)
+            if showContentView {
+                ContentView()
+                    .opacity(showContentView ? 1 : 0)
+                    .animation(Animation.easeInOut(duration: 0.5).delay(1), value: showContentView)
+            }
+        }
+        .onAppear {
+            bounce = true
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) {
+                startGradientAnimation = true
+                DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
+                    showContentView = true
+                    onCompletion?()
+                }
+            }
+        }
+    }
+}
+
+struct ContentView: View {
+    var body: some View {
+        Text("Content View")
+    }
+}
+
+struct AdvancedLogoAnimation_Previews: PreviewProvider {
+    static var previews: some View {
+        AdvancedLogoAnimation()
+    }
+}

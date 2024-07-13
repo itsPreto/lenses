@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore Python cache and initialization files
+__init__.py
+__pycache__/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore assets folder
+assets/
+
+# Ignore custom environment folder
+daiscen_env/
