@@ -1,6 +1,6 @@
 <div align="center">
 
-# Setup Guide for LENSES: Layered Embedding Network for Search and Exploration System
+# Setup Guide for LENSES: Layered Embedding Network for Search and Exploration Systems
 
 This document provides a comprehensive guide for setting up and using the LENSES project. It covers environment setup, backend and frontend configuration, system usage, future vision, and details about the Flask server and its features.
 
