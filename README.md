@@ -1,13 +1,18 @@
-
-This document provides a comprehensive guide for setting up and using the LENSES project. It covers environment setup, backend and frontend configuration, system usage, future vision, and details about the Flask server and its features.
----
+<div align="center">
 
 # Setup Guide for LENSES: Layered Embedding Network for Search and Exploration System
 
+This document provides a comprehensive guide for setting up and using the LENSES project. It covers environment setup, backend and frontend configuration, system usage, future vision, and details about the Flask server and its features.
+
+---
+
+![LENSES Project](https://github.com/itsPreto/lenses/blob/main/frontend/public/animated.gif)
+
 ## Note: the project comes with an example codebase already processed: [Spring-AI](https://github.com/spring-projects/spring-ai)
 ## To quickly launch the frontend `cd frontend` then `npm install` & `npm start` and you should see the UI be brought up.
+</div>
 
---- 
+---
 
 ## 1. Environment Setup
 
